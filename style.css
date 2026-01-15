@@ -1,0 +1,12 @@
+nav{
+    display:flex;
+    justify-content: space-around;
+    /* flex-direction:row */
+}
+ul{
+    list-style:none;
+    display: flex;
+    gap:20px;
+    padding:10px;
+    margin:10px;
+}
