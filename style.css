@@ -2,6 +2,7 @@ nav{
     display:flex;
     justify-content: space-around;
     /* flex-direction:row */
+    background-color:rgb(221, 16, 16)
 }
 ul{
     list-style:none;
